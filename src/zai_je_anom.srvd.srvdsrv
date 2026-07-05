@@ -1,0 +1,4 @@
+@EndUserText.label: 'Journal Entry Anomalies'
+define service ZAI_JE_ANOM {
+  expose ZAI_JE_ANOM;
+}
