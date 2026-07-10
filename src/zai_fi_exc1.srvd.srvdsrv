@@ -1,0 +1,4 @@
+@EndUserText.label: 'FI Vendor Posting Exceptions'
+define service ZAI_FI_EXC1_SERVICED {
+  expose ZAI_FI_EXC1;
+}
