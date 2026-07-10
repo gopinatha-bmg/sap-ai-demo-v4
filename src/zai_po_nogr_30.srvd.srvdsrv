@@ -1,0 +1,4 @@
+@EndUserText.label: 'PO High Value without GR within 30 days'
+define service ZAI_PO_NOGR_30_SERVICED {
+  expose ZAI_PO_NOGR_30;
+}
