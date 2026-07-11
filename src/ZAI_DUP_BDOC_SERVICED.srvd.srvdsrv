@@ -1,0 +1,4 @@
+@EndUserText.label: 'Duplicate Business Document by Company and Year'
+define service ZAI_DUP_BDOC_SERVICED {
+  expose ZAI_DUP_BDOC;
+}
