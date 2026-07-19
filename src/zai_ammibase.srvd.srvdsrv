@@ -1,0 +1,4 @@
+@EndUserText.label: 'FI Amount Mismatch Exceptions Base'
+define service ZAI_AMMIBASE_SERVICED {
+  expose ZAI_AMMIBASE;
+}
